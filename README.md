@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-[My Website](https://lemezze.github.io/index/index.html)
+[My Website](https://{lemezze}.github.io/index/index.html)
 <!--
 **lemezze/lemezze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
